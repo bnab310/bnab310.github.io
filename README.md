@@ -99,7 +99,7 @@
     </header>
 
     <div class="banner">
-        <img src="fudge-image.jpg" alt="Delicious Fudge">
+        <img src="[fudge-image.jpg](https://tse1.explicit.bing.net/th?id=OIP.mbcYbGPSrfanLtvN47He7gHaEt&pid=Api&P=0&h=180)" alt="Delicious Fudge">
         <h2>Indulge in the Finest Fudge in Farnham!</h2>
     </div>
 
@@ -111,8 +111,8 @@
     <div class="flavors" id="flavors">
         <h2>Fudge Flavors</h2>
         <div class="flavor-gallery">
-            <img src="flavor1.jpg" alt="Fudge Flavor 1">
-            <img src="flavor2.jpg" alt="Fudge Flavor 2">
+            <img src="[flavor1.jpg](https://tse3.mm.bing.net/th?id=OIP.ljwAIqMKQg-qSR4kJJJm-QHaFj&pid=Api&P=0&h=180)" alt="vanilla Fudge">
+            <img src="[flavor2.jpg](https://tse4.mm.bing.net/th?id=OIP.4d0A34czodQaPWSiYyu_ZQHaFj&pid=Api&P=0&h=180)" alt="chocolate Fudge">
             <!-- Add more flavor images as needed -->
         </div>
     </div>
