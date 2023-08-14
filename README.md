@@ -87,7 +87,7 @@
 </head>
 <body>
     <header>
-        <h1>Farnham Fudge Delights</h1>
+        <h1>barnaby's Fudge</h1>
         <nav>
             <ul>
                 <li><a href="#about">About Us</a></li>
@@ -105,7 +105,7 @@
 
     <div class="about" id="about">
         <h2>About Us</h2>
-        <p>Brief introduction to your fudge business and commitment to quality and local ingredients.</p>
+        <p>Hi, i am Barnaby law. I live on middle avenue and i have decided to earn some money by selling fudge. for my first batch i went door to door selling the fudge. that went well so i made a website for if people wanted to buy more fudge.</p>
     </div>
 
     <div class="flavors" id="flavors">
