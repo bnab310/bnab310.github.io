@@ -112,8 +112,8 @@
     <div class="flavors" id="flavors">
         <h2>Fudge Flavors</h2>
         <div class="flavor-gallery">
-            <img src="[flavor1.jpg](https://tse3.mm.bing.net/th?id=OIP.ljwAIqMKQg-qSR4kJJJm-QHaFj&pid=Api&P=0&h=180)" alt="vanilla Fudge">
-            <img src="[flavor2.jpg](https://tse4.mm.bing.net/th?id=OIP.4d0A34czodQaPWSiYyu_ZQHaFj&pid=Api&P=0&h=180)" alt="chocolate Fudge">
+            <img src="(https://tse3.mm.bing.net/th?id=OIP.ljwAIqMKQg-qSR4kJJJm-QHaFj&pid=Api&P=0&h=180)" alt="vanilla Fudge">
+            <img src="(https://tse4.mm.bing.net/th?id=OIP.4d0A34czodQaPWSiYyu_ZQHaFj&pid=Api&P=0&h=180)" alt="chocolate Fudge">
             <!-- Add more flavor images as needed -->
         </div>
     </div>
@@ -125,8 +125,8 @@
             <form action="order.php" method="post">
                 <label for="flavor">Select a Flavor:</label>
                 <select name="flavor" id="flavor">
-                    <option value="flavor1">Flavor 1</option>
-                    <option value="flavor2">Flavor 2</option>
+                    <option value="vanilla">Flavor 1</option>
+                    <option value="chocolate">Flavor 2</option>
                     <!-- Add more flavor options as needed -->
                 </select>
                 <br>
