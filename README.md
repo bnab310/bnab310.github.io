@@ -99,8 +99,7 @@
     </header>
 
     <div class="banner">
-        <img src="![image](https://github.com/bnab310/bnab310.github.io/assets/142220226/530e670c-c00b-440c-9fe5-401f1dbf5113)
-">
+        <img src="![image](https://github.com/bnab310/bnab310.github.io/assets/142220226/33704c7e-a3c9-4d02-8201-c3d9921a7340)">
         <h2>Indulge in the Finest Fudge in Farnham!</h2>
     </div>
 
