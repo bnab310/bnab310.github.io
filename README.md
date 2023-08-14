@@ -99,7 +99,8 @@
     </header>
 
     <div class="banner">
-        <img src="[fudge-image.jpg](https://tse1.explicit.bing.net/th?id=OIP.mbcYbGPSrfanLtvN47He7gHaEt&pid=Api&P=0&h=180)" alt="Delicious Fudge">
+        <img src="![image](https://github.com/bnab310/bnab310.github.io/assets/142220226/70111a62-d79d-4780-bcd7-0d4296ef093f)
+" alt="Delicious Fudge">
         <h2>Indulge in the Finest Fudge in Farnham!</h2>
     </div>
 
