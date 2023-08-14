@@ -87,11 +87,11 @@
 </head>
 <body>
     <header>
-        <h1>barnaby's Fudge</h1>
+        <h1>Barnaby's Fudge</h1>
         <nav>
             <ul>
                 <li><a href="#about">About Us</a></li>
-                <li><a href="#flavors">Fudge Flavors</a></li>
+                <li><a href="#flavors">Fudge Flavours</a></li>
                 <li><a href="#order">Order Online</a></li>
                 <li><a href="#contact">Contact Us</a></li>
             </ul>
@@ -99,7 +99,7 @@
     </header>
 
     <div class="banner">
-        <img src="![image](https://github.com/bnab310/bnab310.github.io/assets/142220226/33704c7e-a3c9-4d02-8201-c3d9921a7340)">
+        <img src="(https://github.com/bnab310/bnab310.github.io/assets/142220226/33704c7e-a3c9-4d02-8201-c3d9921a7340)">
         <h2>Indulge in the Finest Fudge in Farnham!</h2>
     </div>
 
